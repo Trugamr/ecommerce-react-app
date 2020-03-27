@@ -1,6 +1,5 @@
 import React from 'react'
 import axios from 'axios'
-import './stripe-button.styles.scss'
 
 import StripeCheckout from 'react-stripe-checkout'
 
